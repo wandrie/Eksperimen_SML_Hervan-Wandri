@@ -1,0 +1,11 @@
+*.pkl
+*.joblib
+*.h5
+*.pb
+*.pt
+*.pth
+*.onnx
+best_model.pkl
+scaler.pkl
+membangun model/best_model.pkl
+membangun model/scaler.pkl
